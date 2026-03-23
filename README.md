@@ -131,10 +131,3 @@ python app.py
 > SympForYou is for **informational purposes only** and does not constitute professional medical advice. Always consult a qualified healthcare professional.
 
 ---
-
-## 🙌 Acknowledgements
-
-- [IBM Watsonx.ai (Granite)](https://www.ibm.com/watsonx)
-- [IBM Watson NLU](https://www.ibm.com/cloud/watson-natural-language-understanding)
-- [IBM Speech Services](https://www.ibm.com/cloud/watson-speech-to-text)
-- [World Health Organization](https://www.who.int/health-topics)
